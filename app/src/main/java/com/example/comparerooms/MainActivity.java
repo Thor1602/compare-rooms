@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
         TextView textView = new TextView(this);
         textView.setTypeface(Typeface.DEFAULT_BOLD);
         textView.setTextSize(30);
-        textView.setText("De gewenste resultaten");
+        textView.setText("Results");
         listViewResults.addHeaderView(textView);
 
         // For populating list data
@@ -209,6 +209,6 @@ public class MainActivity extends AppCompatActivity {
             //try catch will prevent the app from shutting ddown
 
         }
-        leftOver.setText("Overblijvende combinaties: " + matrixList.size());
+        leftOver.setText("Remaining combinations: " + matrixList.size());
     }
 }

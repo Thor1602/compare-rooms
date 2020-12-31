@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">Kamers Vergelijken</string>
+    <string name="app_name">Compare rooms</string>
     <string name="firstPic" />
     <string name="secondPic" />
     <string name="btnstart">START</string>
-    <string name="change">VERANDER</string>
-    <string name="btnagain">OPNIEUW</string>
+    <string name="change">CHANGE</string>
+    <string name="btnagain">AGAIN</string>
 </resources>
